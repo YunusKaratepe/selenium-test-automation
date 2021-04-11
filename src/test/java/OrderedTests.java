@@ -39,7 +39,7 @@ public class OrderedTests {
     @Test
     public void b_login() {
         LoginPage loginPage = homePage.openLoginPage();
-        boolean loginControl = loginPage.login("yyunuskaratepe", "yns0122436");
+        boolean loginControl = loginPage.login("your_username", "your_password");
         Assert.assertTrue(loginControl);
     }
 
