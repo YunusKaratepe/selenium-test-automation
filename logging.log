@@ -41,3 +41,8 @@
 2021-04-11 22:27:22 INFO  MyLogger:13 - Basket price of the products: 5749.0
 2021-04-11 22:27:22 INFO  MyLogger:13 - Price of the product in page and basket are same.
 2021-04-11 22:27:29 WARN  MyLogger:21 - Product removed from the basket but the basket is NOT empty.
+2021-04-11 22:29:45 INFO  MyLogger:13 - Chrome Opened succesfully.
+2021-04-11 22:29:45 INFO  MyLogger:13 - Gitti gidiyor opened successfully.
+2021-04-11 22:29:48 INFO  MyLogger:13 - Login successful.
+2021-04-11 22:29:52 INFO  MyLogger:13 - Search successful.
+2021-04-11 22:29:53 INFO  MyLogger:13 - Successfully added product to basket. Price of the product at product page: 3132.1
