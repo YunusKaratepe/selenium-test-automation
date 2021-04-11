@@ -1,0 +1,43 @@
+2021-04-11 21:46:55 INFO  MyLogger:13 - Chrome Opened
+2021-04-11 21:46:55 INFO  MyLogger:13 - Gitti Gidiyor is opened succesfully.
+2021-04-11 22:00:06 INFO  MyLogger:13 - Chrome Opened succesfully.
+2021-04-11 22:00:10 INFO  MyLogger:13 - Login successful.
+2021-04-11 22:02:35 INFO  MyLogger:13 - Chrome Opened succesfully.
+2021-04-11 22:02:35 INFO  MyLogger:13 - Gitti gidiyor opened successfully.
+2021-04-11 22:15:31 INFO  MyLogger:13 - Chrome Opened succesfully.
+2021-04-11 22:15:31 INFO  MyLogger:13 - Gitti gidiyor opened successfully.
+2021-04-11 22:16:24 INFO  MyLogger:13 - Chrome Opened succesfully.
+2021-04-11 22:16:24 INFO  MyLogger:13 - Gitti gidiyor opened successfully.
+2021-04-11 22:16:37 INFO  MyLogger:13 - Chrome Opened succesfully.
+2021-04-11 22:18:00 INFO  MyLogger:13 - Chrome Opened succesfully.
+2021-04-11 22:18:03 INFO  MyLogger:13 - Login successful.
+2021-04-11 22:18:17 INFO  MyLogger:13 - Chrome Opened succesfully.
+2021-04-11 22:18:17 INFO  MyLogger:13 - Gitti gidiyor opened successfully.
+2021-04-11 22:18:21 INFO  MyLogger:13 - Login successful.
+2021-04-11 22:18:24 INFO  MyLogger:13 - Search successful.
+2021-04-11 22:18:26 INFO  MyLogger:13 - Successfully added product to basket. Price of the product at product page: 4249.0
+2021-04-11 22:18:39 WARN  MyLogger:21 - Product removed from the basket but the basket is NOT empty.
+2021-04-11 22:19:46 INFO  MyLogger:13 - Chrome Opened succesfully.
+2021-04-11 22:19:46 INFO  MyLogger:13 - Gitti gidiyor opened successfully.
+2021-04-11 22:19:49 INFO  MyLogger:13 - Login successful.
+2021-04-11 22:19:54 INFO  MyLogger:13 - Search successful.
+2021-04-11 22:19:56 INFO  MyLogger:13 - Successfully added product to basket. Price of the product at product page: 5299.0
+2021-04-11 22:20:02 INFO  MyLogger:13 - Basket price of the products: 5299.0
+2021-04-11 22:20:02 INFO  MyLogger:13 - Price of the product in page and basket are same.
+2021-04-11 22:20:08 WARN  MyLogger:21 - Product removed from the basket but the basket is NOT empty.
+2021-04-11 22:21:44 INFO  MyLogger:13 - Chrome Opened succesfully.
+2021-04-11 22:21:44 INFO  MyLogger:13 - Gitti gidiyor opened successfully.
+2021-04-11 22:21:49 INFO  MyLogger:13 - Login successful.
+2021-04-11 22:21:53 INFO  MyLogger:13 - Search successful.
+2021-04-11 22:21:54 INFO  MyLogger:13 - Successfully added product to basket. Price of the product at product page: 2509.0
+2021-04-11 22:22:01 INFO  MyLogger:13 - Basket price of the products: 2509.0
+2021-04-11 22:22:01 INFO  MyLogger:13 - Price of the product in page and basket are same.
+2021-04-11 22:22:07 WARN  MyLogger:21 - Product removed from the basket but the basket is NOT empty.
+2021-04-11 22:27:01 INFO  MyLogger:13 - Chrome Opened succesfully.
+2021-04-11 22:27:01 INFO  MyLogger:13 - Gitti gidiyor opened successfully.
+2021-04-11 22:27:05 INFO  MyLogger:13 - Login successful.
+2021-04-11 22:27:09 INFO  MyLogger:13 - Search successful.
+2021-04-11 22:27:15 INFO  MyLogger:13 - Successfully added product to basket. Price of the product at product page: 5749.0
+2021-04-11 22:27:22 INFO  MyLogger:13 - Basket price of the products: 5749.0
+2021-04-11 22:27:22 INFO  MyLogger:13 - Price of the product in page and basket are same.
+2021-04-11 22:27:29 WARN  MyLogger:21 - Product removed from the basket but the basket is NOT empty.
