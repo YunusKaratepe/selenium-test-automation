@@ -46,3 +46,6 @@
 2021-04-11 22:29:48 INFO  MyLogger:13 - Login successful.
 2021-04-11 22:29:52 INFO  MyLogger:13 - Search successful.
 2021-04-11 22:29:53 INFO  MyLogger:13 - Successfully added product to basket. Price of the product at product page: 3132.1
+2021-04-11 22:29:59 INFO  MyLogger:13 - Basket price of the products: 3132.1
+2021-04-11 22:29:59 INFO  MyLogger:13 - Price of the product in page and basket are same.
+2021-04-11 22:30:06 INFO  MyLogger:13 - Product removed from the basket and the basket is empty.
